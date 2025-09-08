@@ -703,12 +703,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8145100a850e48de127de5994a8e03125d8057cf",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-08T23:11:38.000Z",
       "message": "test: inicializar el test para caso base",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/8145100a850e48de127de5994a8e03125d8057cf"
     },
     "stats": {
       "total": 9,
@@ -717,6 +717,63 @@
       "date": "2025-09-08"
     },
     "coverage": 100,
+    "test_count": 28,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "8145100a850e48de127de5994a8e03125d8057cf",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T23:17:28.000Z",
+      "message": "calcular tarifa base con redondeo a la hora superior",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/8145100a850e48de127de5994a8e03125d8057cf"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 88.89,
+    "test_count": 28,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "8145100a850e48de127de5994a8e03125d8057cf",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T23:20:26.000Z",
+      "message": "feat: calcular tarifa base redondeando horas hacia arriba",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/8145100a850e48de127de5994a8e03125d8057cf"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 88.89,
+    "test_count": 28,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T23:20:55.000Z",
+      "message": "feat: calcular tarifa base redondeando horas hacia arriba",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 88.89,
     "test_count": 28,
     "failed_tests": 0,
     "conclusion": "success"
