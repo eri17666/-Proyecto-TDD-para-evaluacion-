@@ -684,12 +684,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "dfee5c33573276caf5b1c5d8fc992b9b5aee32c1",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-08T23:09:02.000Z",
       "message": "feat: inicializar la funcion calculateFee",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/dfee5c33573276caf5b1c5d8fc992b9b5aee32c1"
     },
     "stats": {
       "total": 3,
@@ -699,6 +699,25 @@
     },
     "coverage": 100,
     "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T23:11:38.000Z",
+      "message": "test: inicializar el test para caso base",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 28,
     "failed_tests": 0,
     "conclusion": "success"
   }
