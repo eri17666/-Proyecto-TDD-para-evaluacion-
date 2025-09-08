@@ -1,0 +1,32 @@
+Reglas del marcador de Tennis:
+
+Scenario	      Expected Output
+Empieza el set	  "Love-Love"
+Jugador 1 anota      "15-Love"
+Jugador 2 anota 	"30-30"
+Jugador 1 anota     "40-30"
+Jugador 2 anota    	"Deuce"
+Jugador 1 anota 	"Advantage Player 1"
+Jugador 1 anota 	4-2	"Game Player 1"
+
+Plan de Pruebas
+========
+Empieza sin puntos     --> "Love - Love"
+Jugador 1 marca un punto ---> "15 - love"
+Jugador 1 marca dos veces un punto ---> "30 - 0"                                   
+Jugador 1 marca tres veces un punto ---> "40 - 0"                                   
+
+Jugador 2 marca un punto ---> "0 - 15" 
+Jugador 2 marca dos veces un punto ---> "0 - 30"
+Jugador 2 marca tres veces un punto ---> "0 - 40"
+
+Jugador 1 marco 3 veces y jugador marca 3 --> "Deuce"
+Estando en Deuce si marca jugador 1 -->  "Advantage for 1"
+Estando en Deuce si marca jugador 2 -->  "Advantage for 2"
+
+Luego el caso del Game (ganar set) 
+-
+-
+-
+
+
