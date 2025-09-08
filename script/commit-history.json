@@ -665,16 +665,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "6ded8ae54e3b73e673597b897e0b747e6efa454d",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-08T06:59:43.000Z",
       "message": "feat(ui): mostrar total final",
-      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea7/commit/6ded8ae54e3b73e673597b897e0b747e6efa454d"
     },
     "stats": {
       "total": 1,
       "additions": 1,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T23:09:02.000Z",
+      "message": "feat: inicializar la funcion calculateFee",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
       "deletions": 0,
       "date": "2025-09-08"
     },
