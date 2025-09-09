@@ -836,12 +836,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "6e54ff5f85d79d7e4dc58dad11a346138b47d900",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-09T03:52:40.000Z",
       "message": "test: error si salida < entrada",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/6e54ff5f85d79d7e4dc58dad11a346138b47d900"
     },
     "stats": {
       "total": 9,
@@ -851,6 +851,25 @@
     },
     "coverage": 100,
     "test_count": 31,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T03:54:44.000Z",
+      "message": "test: error si salida == entrada",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 8,
+      "deletions": 1,
+      "date": "2025-09-09"
+    },
+    "coverage": 100,
+    "test_count": 32,
     "failed_tests": 0,
     "conclusion": "success"
   }

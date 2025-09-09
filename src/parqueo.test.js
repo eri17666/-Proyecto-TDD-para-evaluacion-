@@ -32,3 +32,10 @@ describe("Parqueo - Validaciones", () => {
     expect(() => calculateFee(entry, exit)).toThrow("exit-before-entry");
   });
 });
+
+
+  it("lanza error si salida es igual a entrada", () => {
+    const entry = mkDate(2025, 9, 1, 10, 0);
+    const exit = mkDate(2025, 9, 1, 10, 0);
+    expect(() => calculateFee(entry, exit)).toThrow("exit-before-entry");
+  });
