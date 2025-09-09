@@ -874,12 +874,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "6a3ccc0b5428da051c94685fd79b7c72cd9b05aa",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-09T04:01:26.000Z",
       "message": "refactor: aplicar refactor para la  tarifa nocturna de Bs6 entre 22-06",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/6a3ccc0b5428da051c94685fd79b7c72cd9b05aa"
     },
     "stats": {
       "total": 15,
@@ -889,6 +889,25 @@
     },
     "coverage": 100,
     "test_count": 32,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T04:03:42.000Z",
+      "message": "test: 23:10–01:05 aplica tarifa nocturna (3h x 6 = 18)",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-09-09"
+    },
+    "coverage": 100,
+    "test_count": 33,
     "failed_tests": 0,
     "conclusion": "success"
   }

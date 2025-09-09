@@ -39,3 +39,13 @@ describe("Parqueo - Validaciones", () => {
     const exit = mkDate(2025, 9, 1, 10, 0);
     expect(() => calculateFee(entry, exit)).toThrow("exit-before-entry");
   });
+
+
+describe("Parqueo - Tarifa nocturna", () => {
+  it("23:10 a 01:05 cobra tarifa nocturna Bs6/h", () => {
+    const entry = mkDate(2025, 9, 1, 23, 10);
+    const exit = mkDate(2025, 9, 2, 1, 5);
+    const res = calculateFee(entry, exit);
+    expect(res.total).toBe(18);
+  });
+});
