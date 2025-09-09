@@ -49,3 +49,12 @@ describe("Parqueo - Tarifa nocturna", () => {
     expect(res.total).toBe(18);
   });
 });
+
+describe("Parqueo - Tarifa mixta", () => {
+  it("21:40 a 22:20 mezcla día y noche (10 + 6 = 16)", () => {
+    const entry = mkDate(2025, 9, 1, 21, 40);
+    const exit = mkDate(2025, 9, 1, 22, 20);
+    const res = calculateFee(entry, exit);
+    expect(res.total).toBe(16);
+  });
+  });
