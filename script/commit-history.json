@@ -912,17 +912,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "05016517575718bcd40a764171f0dc64ea3c19ba",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-09T04:06:40.000Z",
       "message": "test: mezcla día/noche 21:40–22:20 = 16",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/05016517575718bcd40a764171f0dc64ea3c19ba"
     },
     "stats": {
       "total": 11,
       "additions": 10,
       "deletions": 1,
+      "date": "2025-09-09"
+    },
+    "coverage": 100,
+    "test_count": 34,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T04:13:43.000Z",
+      "message": "feat: aplicar tope máximo de Bs50 por día calendario",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 7,
+      "deletions": 2,
       "date": "2025-09-09"
     },
     "coverage": 100,
