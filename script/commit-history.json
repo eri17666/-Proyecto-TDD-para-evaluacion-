@@ -817,12 +817,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "066cc8d7a85f420e8fcbe13630364629c7dc88ca",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-09T03:49:42.000Z",
       "message": "fix: validar que salida sea mayor que entrada",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/066cc8d7a85f420e8fcbe13630364629c7dc88ca"
     },
     "stats": {
       "total": 3,
@@ -832,6 +832,25 @@
     },
     "coverage": 97.87,
     "test_count": 30,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T03:52:40.000Z",
+      "message": "test: error si salida < entrada",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-09-09"
+    },
+    "coverage": 100,
+    "test_count": 31,
     "failed_tests": 0,
     "conclusion": "success"
   }

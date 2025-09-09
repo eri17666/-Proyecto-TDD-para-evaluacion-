@@ -23,3 +23,12 @@ describe("Parqueo - Caso base", () => {
     const res = calculateFee(entry, exit);
     expect(res.total).toBe(30);
   });
+
+
+describe("Parqueo - Validaciones", () => {
+  it("lanza error si salida es menor a entrada", () => {
+    const entry = mkDate(2025, 9, 1, 12, 0);
+    const exit = mkDate(2025, 9, 1, 11, 0);
+    expect(() => calculateFee(entry, exit)).toThrow("exit-before-entry");
+  });
+});
