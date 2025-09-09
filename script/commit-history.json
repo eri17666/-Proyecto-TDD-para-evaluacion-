@@ -798,12 +798,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "7be886b72eb60c31798de5f4796e3ba35eb8ed90",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-09T03:39:52.000Z",
       "message": "test: 2h10m redondea a 3h = Bs30",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/7be886b72eb60c31798de5f4796e3ba35eb8ed90"
     },
     "stats": {
       "total": 8,
@@ -812,6 +812,25 @@
       "date": "2025-09-09"
     },
     "coverage": 100,
+    "test_count": 30,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T03:49:42.000Z",
+      "message": "fix: validar que salida sea mayor que entrada",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-09-09"
+    },
+    "coverage": 97.87,
     "test_count": 30,
     "failed_tests": 0,
     "conclusion": "success"
