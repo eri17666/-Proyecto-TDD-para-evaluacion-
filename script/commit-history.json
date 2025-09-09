@@ -760,12 +760,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a22f772ed1a0f8f1bf3f48cbe22c55681cffe334",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-08T23:20:55.000Z",
       "message": "feat: calcular tarifa base redondeando horas hacia arriba",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/a22f772ed1a0f8f1bf3f48cbe22c55681cffe334"
     },
     "stats": {
       "total": 5,
@@ -775,6 +775,25 @@
     },
     "coverage": 88.89,
     "test_count": 28,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T03:36:46.000Z",
+      "message": "test: 30min redondea a 1h = Bs10",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 9,
+      "deletions": 1,
+      "date": "2025-09-09"
+    },
+    "coverage": 100,
+    "test_count": 29,
     "failed_tests": 0,
     "conclusion": "success"
   }
