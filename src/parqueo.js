@@ -6,10 +6,16 @@ function calculateFee(entry, exit) {
   let cursor = new Date(entry);
   
   while (cursor < exit) {
-    const daykey = cursor.toISOString().split('T')[0];
+    const dayKey =cursor.getFullYear() + 
+      "-" +
+      String(cursor.getMonth() + 1).padStart(2, "0") +
+      "-" +
+      String(cursor.getDate()).padStart(2, "0");
+    
     const hour = cursor.getHours();
     const rate = (hour >= 22 || hour < 6) ? 6 : 10;
-    dayTotals[daykey] = (dayTotals[daykey] || 0) + rate;
+    
+    dayTotals[dayKey] = (dayTotals[dayKey] || 0) + rate;
     cursor.setHours(cursor.getHours() + 1, 0, 0, 0);
   }
   let total = 0;

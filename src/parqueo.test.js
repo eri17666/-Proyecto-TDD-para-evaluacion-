@@ -1,5 +1,6 @@
 import calculateFee from "./parqueo.js";
 
+
 function mkDate(y, m, d, h, min) {
   return new Date(y, m - 1, d, h, min, 0, 0);
 }
@@ -57,4 +58,5 @@ describe("Parqueo - Tarifa mixta", () => {
     const res = calculateFee(entry, exit);
     expect(res.total).toBe(16);
   });
+  
   });
