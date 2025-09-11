@@ -1007,17 +1007,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e08e8c858f9933f7bebf42a405ccd9f85d35c453",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-11T03:53:35.000Z",
       "message": "test: ticket perdido cobra Bs80",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/e08e8c858f9933f7bebf42a405ccd9f85d35c453"
     },
     "stats": {
       "total": 8,
       "additions": 8,
       "deletions": 0,
+      "date": "2025-09-11"
+    },
+    "coverage": 100,
+    "test_count": 36,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T03:55:27.000Z",
+      "message": "fix: redondear total monetario a 2 decimales",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
       "date": "2025-09-11"
     },
     "coverage": 100,

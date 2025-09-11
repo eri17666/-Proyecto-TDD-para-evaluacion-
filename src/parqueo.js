@@ -26,6 +26,6 @@ function calculateFee(entry, exit,lostTicket=false) {
   for (const d in dayTotals) {
     total += Math.min(dayTotals[d], 50);
   }
-  return { total };
+  return { total: parseFloat(total.toFixed(2)) };
 }
 export default calculateFee
