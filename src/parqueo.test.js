@@ -86,3 +86,10 @@ describe("Parqueo - Redondeo dinero", () => {
     expect(res.total).toBe(10.00);
   });
 });
+describe("Parqueo - Casos cruce", () => {
+test("cruce de días suma tope por cada día", () => {
+    const entry = new Date("2025-09-10T00:00:00");
+    const exit = new Date("2025-09-11T23:59:59"); 
+    expect(calculateFee(entry, exit)).toEqual({ total: 100 });
+  });
+  });

@@ -1064,12 +1064,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5f905853232458a5bb6f337e122ff59d93ddfe7a",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-11T05:19:06.000Z",
       "message": "feat: implementar redondeo por fracción de hora en el cálculo de tarifas de parqueo",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/5f905853232458a5bb6f337e122ff59d93ddfe7a"
     },
     "stats": {
       "total": 37,
@@ -1079,6 +1079,25 @@
     },
     "coverage": 98.39,
     "test_count": 37,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T05:25:15.000Z",
+      "message": "test: añadir caso para validar tope diario al cruzar varios días en cálculo de parqueo",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 7,
+      "deletions": 0,
+      "date": "2025-09-11"
+    },
+    "coverage": 98.39,
+    "test_count": 38,
     "failed_tests": 0,
     "conclusion": "success"
   }
