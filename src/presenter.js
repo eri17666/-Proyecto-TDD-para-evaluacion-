@@ -1,6 +1,7 @@
 import sumar from "./sumador";
 import TennisScorer from "./tennisScorer.js";
 import calculate from "./Totalizadordeventa.js";
+import calculateFee from "./parqueo.js";
 
 const first = document.querySelector("#primer-numero");
 const second = document.querySelector("#segundo-numero");
@@ -69,4 +70,28 @@ totalizerForm.addEventListener("submit", (e) => {
     resultDi.innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
   }
 
+});
+
+const parkingForm = document.querySelector("#parking-form");
+const entryInput = document.querySelector("#entry");
+const exitInput = document.querySelector("#exit");
+const lostTicketInput = document.querySelector("#lost-ticket");
+const parkingResult = document.querySelector("#parking-result");
+
+parkingForm.addEventListener("submit", (e) => {
+  e.preventDefault();
+
+  try {
+    const entry = new Date(entryInput.value);
+    const exit = new Date(exitInput.value);
+    const lostTicket = lostTicketInput.checked;
+
+    const result = calculateFee(entry, exit, lostTicket);
+
+    parkingResult.innerHTML = `
+      <p><strong>Total a pagar:</strong> Bs ${result.total}</p>
+    `;
+  } catch (err) {
+    parkingResult.innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
+  }
 });

@@ -1102,17 +1102,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3a9e32adc1534dca7064f4fc043118f628c17535",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-11T05:44:51.000Z",
       "message": "feat: formulario y sección de interfaz para cálculo de tarifas de parqueo",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/3a9e32adc1534dca7064f4fc043118f628c17535"
     },
     "stats": {
       "total": 10,
       "additions": 5,
       "deletions": 5,
+      "date": "2025-09-11"
+    },
+    "coverage": 98.39,
+    "test_count": 38,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T05:47:56.000Z",
+      "message": "feat: agregar lógica de cálculo de tarifa y manejo de formulario de parqueo",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 25,
+      "additions": 25,
+      "deletions": 0,
       "date": "2025-09-11"
     },
     "coverage": 98.39,
