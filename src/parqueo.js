@@ -1,4 +1,8 @@
-function calculateFee(entry, exit) {
+function calculateFee(entry, exit,lostTicket=false) {
+  
+  if (lostTicket) {
+    return { total: 80 };
+  }
   const diffMs = exit.getTime() - entry.getTime();
     if (diffMs <= 0) throw new Error("exit-before-entry");
 

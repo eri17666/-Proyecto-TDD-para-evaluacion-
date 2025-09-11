@@ -969,12 +969,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "daf2d413eced1a5774cc30a003e168dc668a6174",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-11T03:47:32.000Z",
       "message": "test: estadía larga en un día aplica tope de Bs50",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/daf2d413eced1a5774cc30a003e168dc668a6174"
     },
     "stats": {
       "total": 8,
@@ -983,6 +983,25 @@
       "date": "2025-09-11"
     },
     "coverage": 100,
+    "test_count": 35,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T03:52:05.000Z",
+      "message": "feat: añadir penalidad fija de Bs80 por ticket perdido",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 8,
+      "deletions": 3,
+      "date": "2025-09-11"
+    },
+    "coverage": 98.25,
     "test_count": 35,
     "failed_tests": 0,
     "conclusion": "success"

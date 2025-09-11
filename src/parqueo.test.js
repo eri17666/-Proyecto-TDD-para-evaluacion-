@@ -59,7 +59,7 @@ describe("Parqueo - Tarifa mixta", () => {
     expect(res.total).toBe(16);
   });
   });
-  
+
 describe("Parqueo - Tope diario", () => {
   it("estadía larga en un mismo día no supera Bs50", () => {
     const entry = mkDate(2025, 9, 1, 6, 0);
@@ -68,3 +68,4 @@ describe("Parqueo - Tope diario", () => {
     expect(res.total).toBe(50);
   });
 });
+
