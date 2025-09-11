@@ -1045,12 +1045,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e76e05f4a7e071ea9cd18087e4ebbb2f267cf691",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-11T03:57:29.000Z",
       "message": "test: total entero se muestra con .00",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/e76e05f4a7e071ea9cd18087e4ebbb2f267cf691"
     },
     "stats": {
       "total": 9,
@@ -1059,6 +1059,25 @@
       "date": "2025-09-11"
     },
     "coverage": 100,
+    "test_count": 37,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T05:19:06.000Z",
+      "message": "feat: implementar redondeo por fracción de hora en el cálculo de tarifas de parqueo",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 37,
+      "additions": 31,
+      "deletions": 6,
+      "date": "2025-09-11"
+    },
+    "coverage": 98.39,
     "test_count": 37,
     "failed_tests": 0,
     "conclusion": "success"

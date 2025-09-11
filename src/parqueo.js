@@ -8,8 +8,17 @@ function calculateFee(entry, exit,lostTicket=false) {
 
   const dayTotals = {};
   let cursor = new Date(entry);
+
+   if (cursor < entry) {
+    cursor.setHours(cursor.getHours() + 1); 
+  }
+
+  let end = new Date(exit);
+  if (end.getMinutes() > 0 || end.getSeconds() > 0 || end.getMilliseconds() > 0) {
+    end.setHours(end.getHours() + 1, 0, 0, 0); 
+  }
   
-  while (cursor < exit) {
+  while (cursor < end) {
     const dayKey =cursor.getFullYear() + 
       "-" +
       String(cursor.getMonth() + 1).padStart(2, "0") +

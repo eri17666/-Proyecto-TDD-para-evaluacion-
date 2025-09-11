@@ -45,7 +45,7 @@ const totalizerForm = document.querySelector("#totalizer-form");
 const qtyInput = document.querySelector("#qty");
 const priceInput = document.querySelector("#price");
 const stateSelect = document.querySelector("#state");
-const resultDiv = document.querySelector("#result");
+const resultDi = document.querySelector("#result");
 
 totalizerForm.addEventListener("submit", (e) => {
   e.preventDefault();
@@ -57,7 +57,7 @@ totalizerForm.addEventListener("submit", (e) => {
   try {
     const r = calculate({ qty, price, state });
 
-    resultDiv.innerHTML = `
+    resultDi.innerHTML = `
       <p><strong>Subtotal:</strong> $${r.subtotal}</p>
       <p><strong>Descuento aplicado:</strong> ${r.discountRate * 100}%</p>
       <p><strong>Monto descuento:</strong> -$${r.discount}</p>
@@ -66,7 +66,7 @@ totalizerForm.addEventListener("submit", (e) => {
       <p><strong>Total Final:</strong> $${r.total}</p>
     `;
   } catch (err) {
-    resultDiv.innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
+    resultDi.innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
   }
 
 });
