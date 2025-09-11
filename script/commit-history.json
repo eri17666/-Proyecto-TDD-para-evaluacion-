@@ -1140,11 +1140,30 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b8dbb170839cd4a221a0f404f3eff48babe646fe",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-11T15:27:03.000Z",
       "message": "first commi1t",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/b8dbb170839cd4a221a0f404f3eff48babe646fe"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
+      "date": "2025-09-11"
+    },
+    "coverage": 98.39,
+    "test_count": 38,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T15:29:05.000Z",
+      "message": "first commi11111t",
       "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
     },
     "stats": {
