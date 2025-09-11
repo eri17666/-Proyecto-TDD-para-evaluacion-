@@ -988,12 +988,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "83bde5c476082a09e75a1dee9039dbd63ba58455",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-11T03:52:05.000Z",
       "message": "feat: añadir penalidad fija de Bs80 por ticket perdido",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/83bde5c476082a09e75a1dee9039dbd63ba58455"
     },
     "stats": {
       "total": 11,
@@ -1003,6 +1003,25 @@
     },
     "coverage": 98.25,
     "test_count": 35,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T03:53:35.000Z",
+      "message": "test: ticket perdido cobra Bs80",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2025-09-11"
+    },
+    "coverage": 100,
+    "test_count": 36,
     "failed_tests": 0,
     "conclusion": "success"
   }

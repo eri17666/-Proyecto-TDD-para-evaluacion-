@@ -69,3 +69,11 @@ describe("Parqueo - Tope diario", () => {
   });
 });
 
+describe("Parqueo - Ticket perdido", () => {
+  it("cobra Bs80 sin importar la estadía", () => {
+    const entry = mkDate(2025, 9, 1, 8, 0);
+    const exit = mkDate(2025, 9, 1, 20, 0);
+    const res = calculateFee(entry, exit, true);
+    expect(res.total).toBe(80);
+  });
+});
