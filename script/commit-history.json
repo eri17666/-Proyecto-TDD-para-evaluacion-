@@ -1026,12 +1026,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "57fea3c75be8119a6aa602f3f74f5b4d9fbe794a",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-11T03:55:27.000Z",
       "message": "fix: redondear total monetario a 2 decimales",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/57fea3c75be8119a6aa602f3f74f5b4d9fbe794a"
     },
     "stats": {
       "total": 2,
@@ -1041,6 +1041,25 @@
     },
     "coverage": 100,
     "test_count": 36,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T03:57:29.000Z",
+      "message": "test: total entero se muestra con .00",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-09-11"
+    },
+    "coverage": 100,
+    "test_count": 37,
     "failed_tests": 0,
     "conclusion": "success"
   }

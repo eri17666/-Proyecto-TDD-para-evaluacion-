@@ -77,3 +77,12 @@ describe("Parqueo - Ticket perdido", () => {
     expect(res.total).toBe(80);
   });
 });
+
+describe("Parqueo - Redondeo dinero", () => {
+  it("si el total es entero muestra .00", () => {
+    const entry = mkDate(2025, 9, 1, 10, 0);
+    const exit = mkDate(2025, 9, 1, 11, 0);
+    const res = calculateFee(entry, exit);
+    expect(res.total).toBe(10.00);
+  });
+});
