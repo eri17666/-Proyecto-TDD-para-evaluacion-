@@ -1083,17 +1083,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "1c86aa1d6bb676182fe6a313d7e78b41be6b7efb",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-11T05:25:15.000Z",
       "message": "test: añadir caso para validar tope diario al cruzar varios días en cálculo de parqueo",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/1c86aa1d6bb676182fe6a313d7e78b41be6b7efb"
     },
     "stats": {
       "total": 7,
       "additions": 7,
       "deletions": 0,
+      "date": "2025-09-11"
+    },
+    "coverage": 98.39,
+    "test_count": 38,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T05:44:51.000Z",
+      "message": "feat: formulario y sección de interfaz para cálculo de tarifas de parqueo",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 5,
+      "deletions": 5,
       "date": "2025-09-11"
     },
     "coverage": 98.39,
