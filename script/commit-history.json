@@ -1102,17 +1102,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "dec80d5a02c4a0538b6f1b0d40a0f2e49eb9c730",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-12T22:25:53.000Z",
       "message": "feat: agregar estructura base del HTML",
-      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/dec80d5a02c4a0538b6f1b0d40a0f2e49eb9c730"
     },
     "stats": {
       "total": 4,
       "additions": 2,
       "deletions": 2,
+      "date": "2025-09-12"
+    },
+    "coverage": 98.39,
+    "test_count": 38,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-12T22:35:51.000Z",
+      "message": "feat: agregar lógica de cálculo de tarifa y manejo de formulario de parqueo",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 41,
+      "additions": 34,
+      "deletions": 7,
       "date": "2025-09-12"
     },
     "coverage": 98.39,

@@ -1,7 +1,10 @@
+/*
 import sumar from "./sumador";
 import TennisScorer from "./tennisScorer.js";
 import calculate from "./Totalizadordeventa.js";
-
+*/
+import calculateFee from "./parqueo.js";
+/*
 const first = document.querySelector("#primer-numero");
 const second = document.querySelector("#segundo-numero");
 const form = document.querySelector("#sumar-form");
@@ -45,7 +48,7 @@ const totalizerForm = document.querySelector("#totalizer-form");
 const qtyInput = document.querySelector("#qty");
 const priceInput = document.querySelector("#price");
 const stateSelect = document.querySelector("#state");
-const resultDi = document.querySelector("#result");
+const resultDiv = document.querySelector("#result");
 
 totalizerForm.addEventListener("submit", (e) => {
   e.preventDefault();
@@ -57,7 +60,7 @@ totalizerForm.addEventListener("submit", (e) => {
   try {
     const r = calculate({ qty, price, state });
 
-    resultDi.innerHTML = `
+    resultDiv.innerHTML = `
       <p><strong>Subtotal:</strong> $${r.subtotal}</p>
       <p><strong>Descuento aplicado:</strong> ${r.discountRate * 100}%</p>
       <p><strong>Monto descuento:</strong> -$${r.discount}</p>
@@ -66,7 +69,31 @@ totalizerForm.addEventListener("submit", (e) => {
       <p><strong>Total Final:</strong> $${r.total}</p>
     `;
   } catch (err) {
-    resultDi.innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
+    resultDiv.innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
   }
 
+});
+*/
+const parkingForm = document.querySelector("#parking-form");
+const entryInput = document.querySelector("#entry");
+const exitInput = document.querySelector("#exit");
+const lostTicketInput = document.querySelector("#lost-ticket");
+const parkingResult = document.querySelector("#parking-result");
+
+parkingForm.addEventListener("submit", (e) => {
+  e.preventDefault();
+
+  try {
+    const entry = new Date(entryInput.value);
+    const exit = new Date(exitInput.value);
+    const lostTicket = lostTicketInput.checked;
+
+    const result = calculateFee(entry, exit, lostTicket);
+
+    parkingResult.innerHTML = `
+      <p><strong>Total a pagar:</strong> Bs ${result.total}</p>
+    `;
+  } catch (err) {
+    parkingResult.innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
+  }
 });
