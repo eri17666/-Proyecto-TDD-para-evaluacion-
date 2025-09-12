@@ -1,0 +1,1104 @@
+[
+  {
+    "sha": "4c20df5b9cc95829796915d62b4d9bdc1705b492",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T13:19:46.000Z",
+      "message": "Doc: plan de pruebas",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/4c20df5b9cc95829796915d62b4d9bdc1705b492"
+    },
+    "stats": {
+      "total": 32,
+      "additions": 32,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "241c353b4cbfb6bbd21012bf474e1b8a69b6f2df",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T13:26:29.000Z",
+      "message": "feat: muestra tablero inicial de love-love",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/241c353b4cbfb6bbd21012bf474e1b8a69b6f2df"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 13,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "0349dde514b15274efe4606f549c8afc0c7186ba",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T14:12:59.000Z",
+      "message": "refactoring: ahora se encapsula en objetos la funcionalidad del scorer",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/0349dde514b15274efe4606f549c8afc0c7186ba"
+    },
+    "stats": {
+      "total": 40,
+      "additions": 33,
+      "deletions": 7,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "a4aa1e89632ebf39e2fb2757298bc7317bc474af",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T14:15:26.000Z",
+      "message": "refacoring: se mejoro nombres de pruebas",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/a4aa1e89632ebf39e2fb2757298bc7317bc474af"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "20e7d9431375cd3656b76509be8334d1d8f5ab2c",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T14:19:23.000Z",
+      "message": "feat: El jugador 1 marca 3 puntos y el jugador 2 en 0",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/20e7d9431375cd3656b76509be8334d1d8f5ab2c"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "d52f629c8ee07ec5ca95fb41c4ccf2ca7cf6069d",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T21:14:29.000Z",
+      "message": "Doc: Explicacion de las reglas para mostrar el score",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/d52f629c8ee07ec5ca95fb41c4ccf2ca7cf6069d"
+    },
+    "stats": {
+      "total": 40,
+      "additions": 37,
+      "deletions": 3,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "17f531e5daf435151788e90f1c265581850229c8",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T07:54:23.000Z",
+      "message": "feat: jugador 2 puede marcar su primer punto",
+      "url": "https://github.com/eri17666/tarea_6/commit/17f531e5daf435151788e90f1c265581850229c8"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 19,
+      "deletions": 3,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "7b69e25fb087e1773bc98b5a0934c35cb0d5a659",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T08:08:08.000Z",
+      "message": "feat: jugador 2 marca segundo punto 'Love - 30'",
+      "url": "https://github.com/eri17666/tarea_6/commit/7b69e25fb087e1773bc98b5a0934c35cb0d5a659"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "eac27635e9ef900bc32a845f70b7620c485f6804",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T08:10:31.000Z",
+      "message": "feat: jugador 2 marca tercer punto 'Love - 40'",
+      "url": "https://github.com/eri17666/tarea_6/commit/eac27635e9ef900bc32a845f70b7620c485f6804"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "2c7e7ca05c2bc0984f25d6fbe34f08c99e9956b0",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T08:15:49.000Z",
+      "message": "feat: mostrar empate 15 - 15",
+      "url": "https://github.com/eri17666/tarea_6/commit/2c7e7ca05c2bc0984f25d6fbe34f08c99e9956b0"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "9e0a164b5af14b4559139e558e313374afff453c",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T08:18:02.000Z",
+      "message": "feat: mostrar empate 30 - 30",
+      "url": "https://github.com/eri17666/tarea_6/commit/9e0a164b5af14b4559139e558e313374afff453c"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "10925b67820d43dafedd1c17748621bf371979e3",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T08:20:28.000Z",
+      "message": "feat: mostrar Deuce para empate ≥ 40",
+      "url": "https://github.com/eri17666/tarea_6/commit/10925b67820d43dafedd1c17748621bf371979e3"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "ad0fee457fef04fa41be71408209c6124d2aba2d",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T08:21:59.000Z",
+      "message": "feat: mostrar ventaja para jugador 1",
+      "url": "https://github.com/eri17666/tarea_6/commit/ad0fee457fef04fa41be71408209c6124d2aba2d"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "cb156d4b1fba1b3fce4dc1b94ba58b1a33f1f4f9",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T08:23:16.000Z",
+      "message": "feat: mostrar ventaja para jugador 2",
+      "url": "https://github.com/eri17666/tarea_6/commit/cb156d4b1fba1b3fce4dc1b94ba58b1a33f1f4f9"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 13,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "2f59d2a01e10b879f891326918e29487c65ea88a",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T09:18:48.000Z",
+      "message": "refactor: manejar Deuce y Advantage dinámicamente",
+      "url": "https://github.com/eri17666/tarea_6/commit/2f59d2a01e10b879f891326918e29487c65ea88a"
+    },
+    "stats": {
+      "total": 41,
+      "additions": 20,
+      "deletions": 21,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 14,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "a1ace56fbca909c9644eafc166d85472d12c93d1",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T09:30:01.000Z",
+      "message": "feat: declarar ganador del game cuando un jugador tiene 2 puntos de ventaja",
+      "url": "https://github.com/eri17666/tarea_6/commit/a1ace56fbca909c9644eafc166d85472d12c93d1"
+    },
+    "stats": {
+      "total": 31,
+      "additions": 31,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 16,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "7dc50a2c16302c1733ef866fcfd89eb9f949f27e",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T09:46:45.000Z",
+      "message": "feat: agregar interfaz HTML para el marcador de Tennis",
+      "url": "https://github.com/eri17666/tarea_6/commit/7dc50a2c16302c1733ef866fcfd89eb9f949f27e"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 16,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "70232cd3dc034acb0400bfc697ea5e910e3e6a32",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T10:01:06.000Z",
+      "message": "feat: implementacion final logica de interacción  de TennisScorer en presenter.js",
+      "url": "https://github.com/eri17666/tarea_6/commit/70232cd3dc034acb0400bfc697ea5e910e3e6a32"
+    },
+    "stats": {
+      "total": 26,
+      "additions": 26,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 16,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "51390bb03cc527bffbff3228695cc405a96b9b2e",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T03:01:20.000Z",
+      "message": "feat: agregar función calculate vacía",
+      "url": "https://github.com/eri17666/tarea7/commit/51390bb03cc527bffbff3228695cc405a96b9b2e"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 13,
+      "deletions": 1,
+      "date": "2025-09-08"
+    },
+    "coverage": 94.74,
+    "test_count": 17,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "7528830fce2f952a9e23b7a4e6a7f3cf90a959a7",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T03:32:58.000Z",
+      "message": "feat: calcular subtotal como qty * price",
+      "url": "https://github.com/eri17666/tarea7/commit/7528830fce2f952a9e23b7a4e6a7f3cf90a959a7"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 10,
+      "deletions": 3,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 18,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "64576e367c64ed8b037eaf9ddb84df5823481be4",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T04:05:38.000Z",
+      "message": "test: redondear subtotal a 2 decimales",
+      "url": "https://github.com/eri17666/tarea7/commit/64576e367c64ed8b037eaf9ddb84df5823481be4"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 12,
+      "deletions": 1,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 19,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "208e396caec794900363df71a10aa1e654aa6f15",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T04:21:53.000Z",
+      "message": "test: sin descuento si subtotal < 1000",
+      "url": "https://github.com/eri17666/tarea7/commit/208e396caec794900363df71a10aa1e654aa6f15"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 9,
+      "deletions": 1,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 20,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "e9bab3ebfe15fdd813d54c8968a12ea144067a6e",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T04:39:14.000Z",
+      "message": "test: aplicar 3% descuento",
+      "url": "https://github.com/eri17666/tarea7/commit/e9bab3ebfe15fdd813d54c8968a12ea144067a6e"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 13,
+      "deletions": 2,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 21,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "73e59970055478fef37565e1104399dc4c1f464c",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T04:54:59.000Z",
+      "message": "test: aplicar 5% descuento",
+      "url": "https://github.com/eri17666/tarea7/commit/73e59970055478fef37565e1104399dc4c1f464c"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 10,
+      "deletions": 1,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 22,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "b7354b533e288cf31253534765e1e7cd47fdd2fb",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T04:59:14.000Z",
+      "message": "test: aplicar 7% descuento",
+      "url": "https://github.com/eri17666/tarea7/commit/b7354b533e288cf31253534765e1e7cd47fdd2fb"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 10,
+      "deletions": 1,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 23,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "02c506ad434df57c41ab0dabfc42288ba7cfbc7c",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T05:07:45.000Z",
+      "message": "test: aplicar 10% descuento",
+      "url": "https://github.com/eri17666/tarea7/commit/02c506ad434df57c41ab0dabfc42288ba7cfbc7c"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 10,
+      "deletions": 1,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 24,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "5d33bc26016be865dcd1807f9a6f6577942e06a0",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T05:13:09.000Z",
+      "message": "test: aplicar 15% descuento",
+      "url": "https://github.com/eri17666/tarea7/commit/5d33bc26016be865dcd1807f9a6f6577942e06a0"
+    },
+    "stats": {
+      "total": 17,
+      "additions": 13,
+      "deletions": 4,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 25,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "cf2ed715ce512db517bbbe941a21a859df826a84",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T05:30:05.000Z",
+      "message": "test: calcular totaldespuesdeldescuento",
+      "url": "https://github.com/eri17666/tarea7/commit/cf2ed715ce512db517bbbe941a21a859df826a84"
+    },
+    "stats": {
+      "total": 20,
+      "additions": 15,
+      "deletions": 5,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 26,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "b4d07c8a0a0a1ad7d6aea14ead18e72ec117f85d",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T06:03:59.000Z",
+      "message": "feat: agregar impuestos por estado",
+      "url": "https://github.com/eri17666/tarea7/commit/b4d07c8a0a0a1ad7d6aea14ead18e72ec117f85d"
+    },
+    "stats": {
+      "total": 33,
+      "additions": 30,
+      "deletions": 3,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "963c3575446f6551a2cf139706765d4afed59396",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T06:36:01.000Z",
+      "message": "agregar interfaz HTML para el totalizador",
+      "url": "https://github.com/eri17666/tarea7/commit/963c3575446f6551a2cf139706765d4afed59396"
+    },
+    "stats": {
+      "total": 26,
+      "additions": 25,
+      "deletions": 1,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "83ba02b458160127de2c3e3df38576b9b51068f9",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T06:45:14.000Z",
+      "message": "feat(ui): preparar formulario y capturar entradas del totalizador",
+      "url": "https://github.com/eri17666/tarea7/commit/83ba02b458160127de2c3e3df38576b9b51068f9"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "d3f313595bb673932e55c43108ed2562deb62fd3",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T06:47:10.000Z",
+      "message": "feat(ui): invocar calculate y mostrar subtotal",
+      "url": "https://github.com/eri17666/tarea7/commit/d3f313595bb673932e55c43108ed2562deb62fd3"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 9,
+      "deletions": 1,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "bea12dff1a06f6e93342f662ee810f698648f489",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T06:50:09.000Z",
+      "message": "feat(ui): invocar calculate y mostrar subtotal",
+      "url": "https://github.com/eri17666/tarea7/commit/bea12dff1a06f6e93342f662ee810f698648f489"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "f078b86fb3e6c93b037b86ddc4cca18660c151fd",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T06:52:30.000Z",
+      "message": "feat(ui): mostrar descuento aplicado y monto descuento",
+      "url": "https://github.com/eri17666/tarea7/commit/f078b86fb3e6c93b037b86ddc4cca18660c151fd"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 3,
+      "deletions": 1,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "eeaf513cfbf524be4f464b8a75e297d9230d59d8",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T06:55:48.000Z",
+      "message": "feat(ui): mostrar total depues del descuento y impuesto aplicado según estado",
+      "url": "https://github.com/eri17666/tarea7/commit/eeaf513cfbf524be4f464b8a75e297d9230d59d8"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 2,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "6ded8ae54e3b73e673597b897e0b747e6efa454d",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T06:59:43.000Z",
+      "message": "feat(ui): mostrar total final",
+      "url": "https://github.com/eri17666/tarea7/commit/6ded8ae54e3b73e673597b897e0b747e6efa454d"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 1,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "dfee5c33573276caf5b1c5d8fc992b9b5aee32c1",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T23:09:02.000Z",
+      "message": "feat: inicializar la funcion calculateFee",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/dfee5c33573276caf5b1c5d8fc992b9b5aee32c1"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "8145100a850e48de127de5994a8e03125d8057cf",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T23:11:38.000Z",
+      "message": "test: inicializar el test para caso base",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/8145100a850e48de127de5994a8e03125d8057cf"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 28,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "8145100a850e48de127de5994a8e03125d8057cf",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T23:17:28.000Z",
+      "message": "calcular tarifa base con redondeo a la hora superior",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/8145100a850e48de127de5994a8e03125d8057cf"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 88.89,
+    "test_count": 28,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "8145100a850e48de127de5994a8e03125d8057cf",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T23:20:26.000Z",
+      "message": "feat: calcular tarifa base redondeando horas hacia arriba",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/8145100a850e48de127de5994a8e03125d8057cf"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 88.89,
+    "test_count": 28,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "a22f772ed1a0f8f1bf3f48cbe22c55681cffe334",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T23:20:55.000Z",
+      "message": "feat: calcular tarifa base redondeando horas hacia arriba",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/a22f772ed1a0f8f1bf3f48cbe22c55681cffe334"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 88.89,
+    "test_count": 28,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "cb89df32ca530abb8e56c7c5517f9f0212b92d24",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T03:36:46.000Z",
+      "message": "test: 30min redondea a 1h = Bs10",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/cb89df32ca530abb8e56c7c5517f9f0212b92d24"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 9,
+      "deletions": 1,
+      "date": "2025-09-09"
+    },
+    "coverage": 100,
+    "test_count": 29,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "7be886b72eb60c31798de5f4796e3ba35eb8ed90",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T03:39:52.000Z",
+      "message": "test: 2h10m redondea a 3h = Bs30",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/7be886b72eb60c31798de5f4796e3ba35eb8ed90"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2025-09-09"
+    },
+    "coverage": 100,
+    "test_count": 30,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "066cc8d7a85f420e8fcbe13630364629c7dc88ca",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T03:49:42.000Z",
+      "message": "fix: validar que salida sea mayor que entrada",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/066cc8d7a85f420e8fcbe13630364629c7dc88ca"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-09-09"
+    },
+    "coverage": 97.87,
+    "test_count": 30,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "6e54ff5f85d79d7e4dc58dad11a346138b47d900",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T03:52:40.000Z",
+      "message": "test: error si salida < entrada",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/6e54ff5f85d79d7e4dc58dad11a346138b47d900"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-09-09"
+    },
+    "coverage": 100,
+    "test_count": 31,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "edff2acd3352eeebf3fba13d60e1ba102e160bca",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T03:54:44.000Z",
+      "message": "test: error si salida == entrada",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/edff2acd3352eeebf3fba13d60e1ba102e160bca"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 8,
+      "deletions": 1,
+      "date": "2025-09-09"
+    },
+    "coverage": 100,
+    "test_count": 32,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "6a3ccc0b5428da051c94685fd79b7c72cd9b05aa",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T04:01:26.000Z",
+      "message": "refactor: aplicar refactor para la  tarifa nocturna de Bs6 entre 22-06",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/6a3ccc0b5428da051c94685fd79b7c72cd9b05aa"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 10,
+      "deletions": 5,
+      "date": "2025-09-09"
+    },
+    "coverage": 100,
+    "test_count": 32,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "5d4f05908fcd81009feeb4bed42dfc6c78ffb0e4",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T04:03:42.000Z",
+      "message": "test: 23:10–01:05 aplica tarifa nocturna (3h x 6 = 18)",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/5d4f05908fcd81009feeb4bed42dfc6c78ffb0e4"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-09-09"
+    },
+    "coverage": 100,
+    "test_count": 33,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "05016517575718bcd40a764171f0dc64ea3c19ba",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T04:06:40.000Z",
+      "message": "test: mezcla día/noche 21:40–22:20 = 16",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/05016517575718bcd40a764171f0dc64ea3c19ba"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 10,
+      "deletions": 1,
+      "date": "2025-09-09"
+    },
+    "coverage": 100,
+    "test_count": 34,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "37e2f9b8aa8b242f6777715bfd6384087195f3a1",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-09T04:13:43.000Z",
+      "message": "feat: aplicar tope máximo de Bs50 por día calendario",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/37e2f9b8aa8b242f6777715bfd6384087195f3a1"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 7,
+      "deletions": 2,
+      "date": "2025-09-09"
+    },
+    "coverage": 100,
+    "test_count": 34,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "7d3e640944df8743fc57ed371d09f5215e455f4d",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T03:42:43.000Z",
+      "message": "refactor: ajustar lógica de cálculo y asegurar el tope diario de Bs50",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/7d3e640944df8743fc57ed371d09f5215e455f4d"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 11,
+      "deletions": 3,
+      "date": "2025-09-11"
+    },
+    "coverage": 100,
+    "test_count": 34,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "daf2d413eced1a5774cc30a003e168dc668a6174",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T03:47:32.000Z",
+      "message": "test: estadía larga en un día aplica tope de Bs50",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/daf2d413eced1a5774cc30a003e168dc668a6174"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2025-09-11"
+    },
+    "coverage": 100,
+    "test_count": 35,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "83bde5c476082a09e75a1dee9039dbd63ba58455",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T03:52:05.000Z",
+      "message": "feat: añadir penalidad fija de Bs80 por ticket perdido",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/83bde5c476082a09e75a1dee9039dbd63ba58455"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 8,
+      "deletions": 3,
+      "date": "2025-09-11"
+    },
+    "coverage": 98.25,
+    "test_count": 35,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "e08e8c858f9933f7bebf42a405ccd9f85d35c453",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T03:53:35.000Z",
+      "message": "test: ticket perdido cobra Bs80",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/e08e8c858f9933f7bebf42a405ccd9f85d35c453"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2025-09-11"
+    },
+    "coverage": 100,
+    "test_count": 36,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "57fea3c75be8119a6aa602f3f74f5b4d9fbe794a",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T03:55:27.000Z",
+      "message": "fix: redondear total monetario a 2 decimales",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/57fea3c75be8119a6aa602f3f74f5b4d9fbe794a"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
+      "date": "2025-09-11"
+    },
+    "coverage": 100,
+    "test_count": 36,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "e76e05f4a7e071ea9cd18087e4ebbb2f267cf691",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T03:57:29.000Z",
+      "message": "test: total entero se muestra con .00",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/e76e05f4a7e071ea9cd18087e4ebbb2f267cf691"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-09-11"
+    },
+    "coverage": 100,
+    "test_count": 37,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "5f905853232458a5bb6f337e122ff59d93ddfe7a",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T05:19:06.000Z",
+      "message": "feat: implementar redondeo por fracción de hora en el cálculo de tarifas de parqueo",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/5f905853232458a5bb6f337e122ff59d93ddfe7a"
+    },
+    "stats": {
+      "total": 37,
+      "additions": 31,
+      "deletions": 6,
+      "date": "2025-09-11"
+    },
+    "coverage": 98.39,
+    "test_count": 37,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-11T05:25:15.000Z",
+      "message": "test: añadir caso para validar tope diario al cruzar varios días en cálculo de parqueo",
+      "url": "https://github.com/eri17666/-Proyecto-TDD-para-evaluacion-/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 7,
+      "deletions": 0,
+      "date": "2025-09-11"
+    },
+    "coverage": 98.39,
+    "test_count": 38,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]

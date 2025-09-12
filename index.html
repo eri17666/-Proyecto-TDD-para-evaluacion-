@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xml:lang="es">
+  <head>
+    <title>Sumador</title>
+  </head>
+  <body>
+    <!--
+    <h1>Sumador</h1>
+    <form id="sumar-form">
+      <label for="primer-numero">Primer número:</label>
+      <input type="number" id="primer-numero" />
+      <label for="segundo-numero">Segundo número:</label>
+      <input type="number" id="segundo-numero" />
+      <input type="submit" value="Sumar" id="sumar-button" />
+    </form>
+    <div id="resultado-div"></div>
+
+    <h2>Marcador de Tennis</h2>
+    <div id="score">Love - Love</div>
+    <button id="player1-btn">Jugador 1 anota</button>
+    <button id="player2-btn">Jugador 2 anota</button>
+
+
+    <form id="totalizer-form">
+      <label for="qty">Cantidad:</label>
+      <input type="number" id="qty" required />
+
+      <label for="price">Precio por ítem:</label>
+      <input type="number" id="price" required />
+
+      <label for="state">Estado:</label>
+      <select id="state" required>
+        <option value="">-- seleccione --</option>
+        <option value="UT">UT</option>
+        <option value="NV">NV</option>
+        <option value="TX">TX</option>
+        <option value="AL">AL</option>
+        <option value="CA">CA</option>
+      </select>
+
+      <input type="submit" value="Calcular Total" />
+    </form>
+
+    <div id="result" class="result"></div>
+  -->
+
+    <h2>Cálculo de Parqueo proyecto</h2>
+    <form id="parking-form">
+      <label for="entry">Hora de entrada vehiculo:</label>
+      <input type="datetime-local" id="entry" required />
+
+      <label for="exit">Hora de salida vehiculo:</label>
+      <input type="datetime-local" id="exit" required />
+
+      <label>
+        <input type="checkbox" id="lost-ticket" /> Ticket perdido
+      </label>
+
+      <input type="submit" value="Calcular Tarifa" />
+    </form>
+    <div id="parking-result"></div>
+    
+    <script type="module" src="./src/presenter.js"></script>
+  </body>
+</html>
